@@ -1,0 +1,196 @@
+/*Css stylesheet*/
+/*Creative nine textbox for personal and commercial use for free*/
+/*© Daxeel Soni*/
+
+h1 {
+	font-family: 'Varela Round', sans-serif;
+}
+/*static rextbox startss*/
+.textbox{ 
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+    background: url(male.png) no-repeat;
+    background-position: 5px 5px;
+    padding: 10px 10px 10px 45px;
+    border: 1px solid #999;
+    width: 165px;
+    transition:All 0.2s linear;
+	-webkit-transition:All 0.2s linear;
+	-moz-transition:All 0.2s linear;
+	-o-transition:All 0.2s linear;
+} 
+.textbox:focus { 
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+} 
+/*static rextbox Ends*/
+
+/*Movable textbox starts*/
+.textbox2 {
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    display:block;
+    border: 1px solid #999;
+    height: 15px;
+    transition:All 0.2s linear;
+	-webkit-transition:All 0.2s linear;
+	-moz-transition:All 0.2s linear;
+	-o-transition:All 0.2s linear;
+}
+.textbox2:focus {
+	-webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    width: 300px;
+}
+/*Movable textbox ends*/
+
+/*textbox3 starts*/
+.textbox3 {
+	background-color: #eee6dd;
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: none;
+}
+.textbox3:focus {
+	border-bottom:1px solid red;
+}
+/*textbox3 ends*/
+
+/*textbox4 starts*/
+.textbox4 {
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: none;
+}
+.textbox4:focus {
+	background-color: #fff;
+	border-bottom:1px solid #daa520;
+}
+/*textbox4 ends*/
+
+/*textbox5 starts*/
+.textbox5 {
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: 1px solid black;
+    transition:All 0.2s linear;
+	-webkit-transition:All 0.2s linear;
+	-moz-transition:All 0.2s linear;
+	-o-transition:All 0.2s linear;
+}
+.textbox5:focus {
+	transform: translate(10px, 0px);
+-webkit-transform: translate(10px, 0px);
+-moz-transform: translate(32px, 0px);
+-o-transform: translate(32px, 0px);
+-ms-transform: translate(32px, 0px);
+}
+/*textbox5 ends*/
+
+/*textbox6 start6*/
+.textbox6 {
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: 1px solid black;
+    transition:All 0.7915s ease;
+    -webkit-transition:All 0.7915s ease;
+    -moz-transition:All 0.7915s ease;
+    -o-transition:All 0.7915s ease;
+    transform: rotate(0deg) scale(1) skew(1deg) translate(0px);
+    -webkit-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);
+    -moz-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);
+    -o-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);
+    -ms-transform: rotate(0deg) scale(1) skew(1deg) translate(0px);
+
+}
+.textbox6:focus {
+    transform: rotate(0deg) scale(1.2) skew(0deg) translate(15px);
+    -webkit-transform: rotate(0deg) scale(1.2) skew(0deg) translate(15px);
+    -moz-transform: rotate(0deg) scale(1.2) skew(0deg) translate(5px);
+    -o-transform: rotate(0deg) scale(1.2) skew(0deg) translate(5px);
+    -ms-transform: rotate(0deg) scale(1.2) skew(0deg) translate(5px);
+}
+/*textbox6 ends*/
+
+/*textbox7 starts*/
+.textbox7 {
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    border: 1px solid #999;
+    border-radius: 30px;
+    height: 15px;
+    transition:All 0.1s linear;
+	-webkit-transition:All 0.1s linear;
+	-moz-transition:All 0.2s linear;
+	-o-transition:All 0.2s linear;
+}
+.textbox7:focus {
+	background-color: #2c3342;
+	color: #fff;
+}
+/*textbox7 ends*/
+
+/*textbox8 starts*/
+.textbox8 {
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: 1px solid black;
+}
+.textbox8:focus {
+    background-color: #0067e7;
+    color: #fff;
+}
+.textbox8:hover {
+    background-color: #008080;
+    color: #fff;
+}
+/*textbox8 ends*/
+
+/*textbox9 starts*/
+.textbox9 {
+	outline: none;
+	color: grey;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: 1px solid #6a9c53;
+}
+.textbox9:focus {
+    border: 1px dashed #6a9c53;
+}
+/*textbox9 ends*/
