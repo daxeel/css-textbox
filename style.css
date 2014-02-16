@@ -218,3 +218,71 @@ footer {
     border: 1px dashed #6a9c53;
 }
 /*textbox9 ends*/
+
+/*textbox10 starts*/
+.textbox10{ 
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+    padding: 10px 10px 10px 10px;
+    border: 2px solid #000000;
+    width: 200px;
+    transition:All 0.2s linear;
+	-webkit-transition:All 0.2s linear;
+	-moz-transition:All 0.2s linear;
+	-o-transition:All 0.2s linear;
+} 
+.textbox10:focus { 
+	background: url(search.png) no-repeat;
+	background-position: 300px 5px;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    width: 320px;
+} 
+/*textbox10 ends*/
+
+/*textbox11 starts*/
+.textbox11 {
+	outline: none;
+	background-color: #EEEEEE;
+	color: #000000;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border: none;
+}
+.textbox11:focus {
+	border-left:1px solid #0067e7;
+	border-right:1px solid #0067e7;
+}
+/*textbox11 ends*/
+
+/*textbox12 starts*/
+.textbox12 {
+-webkit-animation: cssAnimation 1.4101s 16 ease-in-out;
+-moz-animation: cssAnimation 1.4101s 16 ease-in-out;
+-o-animation: cssAnimation 1.4101s 16 ease-in-out;
+outline: none;
+	color: #000000;
+	font-size: 15px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	padding: 10px 10px 10px 10px;
+	width:200px;
+    height: 15px;
+    border:1px solid #ff0000;
+}
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.804) skew(1deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.991) skew(1deg) translate(0px); }
+}
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.804) skew(1deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.991) skew(1deg) translate(0px); }
+}
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.804) skew(1deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.991) skew(1deg) translate(0px); }
+}
+/*textbox12 ends*/
