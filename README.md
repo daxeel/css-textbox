@@ -1,6 +1,6 @@
 css-textbox
 ===========
-This is a collection of stylish and creative nine textboxes for personal and commercial use for free.
+This is a collection of stylish and creative textboxes for personal and commercial use for free.
 This is working only on css. No javascript.
 
 Demo
