@@ -5,7 +5,7 @@ This is working only on css. No javascript.
 
 Demo
 ====
-<a href="http://daxeel.net46.net/">Click here</a> for live demo.
+<a href="http://daxeel.net46.net/" target="_blank">Click here</a> for live demo.
 
 Contribution
 ============
@@ -13,4 +13,4 @@ This file has only nine styles. If you want to add more styles then contribute t
 
 License
 =======
-<a href="http://opensource.org/licenses/MIT">MIT</a> © Daxeel Soni
+<a href="http://opensource.org/licenses/MIT" target="_blank">MIT</a> © Daxeel Soni
