@@ -39,7 +39,6 @@ a:hover {
 	font-family: 'Alegreya Sans SC', sans-serif;
 	padding: 10px 10px 10px 10px;
 	width:200px;
-    display:block;
     border: 1px solid #999;
     height: 15px;
     transition:All 0.2s linear;
