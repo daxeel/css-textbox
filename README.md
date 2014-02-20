@@ -5,7 +5,7 @@ This is working only on css. No javascript.
 
 Demo
 ====
-<a href="http://daxeel.net46.net/" target="_blank">Click here</a> for live demo.
+<a href="http://csstb.webuda.com/" target="_blank">Click here</a> for live demo.
 
 Contribution
 ============
